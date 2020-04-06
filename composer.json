@@ -1,0 +1,16 @@
+{
+    "name": "vara/quete_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "vara1991",
+            "email": "varaponegiare@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+	
+}
